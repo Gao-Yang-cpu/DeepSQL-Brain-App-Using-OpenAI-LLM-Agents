@@ -1,8 +1,8 @@
-# AI SQL Brain App Using OpenAI Language Model Agents
+# DeepSQL Brain App Using OpenAI Language Model Agents
 
 Leveraging the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant.
 ## Introduction
-Welcome to the AI SQL Brain App repository! This project leverages the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant. With this app, you can interact with a natural language interface to generate SQL queries, making it easier for both beginners and experienced SQL users to work with databases.
+Welcome to the DeepSQL Brain App repository! This project leverages the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant. With this app, you can interact with a natural language interface to generate SQL queries, making it easier for both beginners and experienced SQL users to work with databases.
 
 ## Features
 - **Natural Language Interface**: Communicate with the app using everyday language to construct SQL queries.
@@ -26,7 +26,7 @@ To get started with the AI SQL Brain App, follow these steps:
 
 3. **Configuration**: Configure your database connection settings in the `config.py` file.
 
-4. **Start the Application**: Run the Flask app to start the AI SQL Brain App:
+4. **Start the Application**: Run the Streamlit app to start the DeepSQL Brain App:
 
    ```bash
    streamlit run main.py
@@ -57,6 +57,6 @@ We welcome contributions to improve and extend the functionality of the AI SQL B
 
 ## Contact
 
-If you have any questions, suggestions, or encounter any issues, please feel free to contact us at [sababadad74@gmail.com](mailto:sababadad74@gmail.com).
+If you have any questions, suggestions, or encounter any issues, please feel free to contact us at [sababadad74@gmail.com](mailto:rosanybteran@gmail.com).
 
-Happy querying with the AI SQL Brain App!
+Happy querying with the DeepSQL Brain App!
