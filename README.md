@@ -54,9 +54,4 @@ We welcome contributions to improve and extend the functionality of the AI SQL B
 3. Make your changes and test thoroughly.
 4. Submit a pull request with a clear description of your changes.
 
-
-## Contact
-
-If you have any questions, suggestions, or encounter any issues, please feel free to contact us at [sababadad74@gmail.com](mailto:rosanybteran@gmail.com).
-
 Happy querying with the DeepSQL Brain App!
